@@ -1,0 +1,3 @@
+Bonjour CPGE Agadir
+ceci est un Texte en claire
+contenant 3 lignes
